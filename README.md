@@ -5,3 +5,4 @@ The games are playable in the browser.
 
 - [Back to Basics](back-to-basics/)
 - [Waveform Rider](waveform-rider/)
+- [Neon Rings](neon-rings/)
